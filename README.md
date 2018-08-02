@@ -52,5 +52,3 @@ If you're looking to get some inspiration, I've collected a number of favorite p
  - [1801 newsletter](http://twitter.us16.list-manage.com/subscribe?u=088b912cf6976d4efabca7bbc&id=5587b07be6)
  - The [OpenNews community list](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc). Open News in general is another great resource for data journalists.
  - Sophie Warnes' [Fair Warning](https://www.getrevue.co/profile/FairWarning/issues/fair-warning-broadband-speeds-a-beer-roadtrip-and-blue-waves-122808?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Fair+Warning)
-
-
