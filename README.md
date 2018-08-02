@@ -9,7 +9,7 @@ But what if I told you there are some things you can do _today_ that will build 
 Set up some of these today, and you'll find a lot of data story options coming down the road.
 
 **15. Sign up for Klaxon.**     
-Klaxon is a tool from The Marshall Project to help journalists monitor websites and track changes. It notifies you if it notices that a website has changed:
+Klaxon is a tool from The Marshall Project to help journalists monitor websites and track changes. It notifies you if it notices that a website has changed:      
 ![Klaxon example](https://github.com/epetenko/15-things-for-dj/blob/master/klaxon_example.png)      
 It's fairly simple to set up; simply go to the website you want and use the Klaxon bookmark to start tracking. Ask Steve how you can get a login.
 
