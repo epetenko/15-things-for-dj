@@ -19,7 +19,7 @@ It's fairly simple to set up; simply go to the website you want and use the Klax
 You can also search by topic, then create tables to compare any geography to another. While the Census site is still a good goal to learn, Census Reporter will help you in most cases.
 
 ## 13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).      
-Ctrl+F your subject or topic of interest.         
+... And Ctrl+F your subject or topic of interest.         
 While sources of data are everywhere around the web, it can be hard to find a comprehensive spot to get started browsing datasets. Steve's data warehouse is NJ-focused, while DIP has everything from libraries to Game of Thrones. The [ProPublica Data Store](https://www.propublica.org/datastore/), [Enigma Public](https://public.enigma.com/) and government websites like data.gov and data.nj.gov are also great places to look.
 
 ## 12. Sign up for IFTTT.      
@@ -29,7 +29,7 @@ While sources of data are everywhere around the web, it can be hard to find a co
 ## 11. Download Tabula.     
 This might be a bit tricky if you're limited to admin-free accounts, but it might be worth the time with IT. [Tabula](https://tabula.technology/) is a software to convert PDFs to downloadable Excel spreadsheets. While tools like Cometdocs also offer this feature, Tabula is the easiest and cheapest (free!) option.
 
-## 10. File a records request**        
+## 10. File a records request        
 Records requests are the bread and buttor of exclusive content. We at the data team file them regularly, even if we don't yet have a particular story in mind. If you're looking for some inspiration, IRE has a tipsheet of [50 things you can FOIA right now](https://docs.google.com/spreadsheets/d/1_tDuq-l531HZ5OLuhH5lQwgqm2kCxMNfZo4XrvL1biA/edit#gid=0). [Muckrock](https://www.muckrock.com/) is a helpful tool for writing and tracking records requests, but an OPRA folder and a little practice also works.
 
 ## 9. Look up a local doctor (or official, or charity) in Propublica's databases.         
