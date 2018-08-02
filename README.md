@@ -10,7 +10,10 @@ Set up some of these today, and you'll find a lot of data story options coming d
 
 **15. Sign up for Klaxon**
 
-**14. Check out the censusreporter.org entry for your town**
+**14. Check out the censusreporter.org entry for your town**      
+[Census Reporter](censusreporter.org) is a news-outlet-created tool that helps journalists easily review and visualize Census data. It has built-in comparisons with other geographies (like a town to its county) and even some mapping tools. You can search for any geography level, like Edison, NJ:      
+![Census Reporter example](https://github.com/epetenko/15-things-for-dj/blob/master/censusreporter_example.png)       
+You can also search by topic, then create tables to compare any geography to another. While the Census site is still a good goal to learn, Census Reporter will help you in most cases.
 
 **13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0). Ctrl+F your subject or topic of interest.**
 
@@ -41,6 +44,5 @@ If you're looking to get some inspiration, I've collected a number of favorite p
  - [1801 newsletter](http://twitter.us16.list-manage.com/subscribe?u=088b912cf6976d4efabca7bbc&id=5587b07be6)
  - The [OpenNews community list](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc). Open News in general is another great resource for data journalists.
  - Sophie Warnes' [Fair Warning](https://www.getrevue.co/profile/FairWarning/issues/fair-warning-broadband-speeds-a-beer-roadtrip-and-blue-waves-122808?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Fair+Warning)
- 
- 
+
 
