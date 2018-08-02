@@ -16,10 +16,10 @@ Set up some of these today, and you'll find a lot of data story options coming d
 
 **12. Sign up for IFTTT.**
 
-**11. File a records request**
+**11. File a records request**        
 If you're looking for some inspiration, IRE has a tipsheet of [50 things you can FOIA right now](https://docs.google.com/spreadsheets/d/1_tDuq-l531HZ5OLuhH5lQwgqm2kCxMNfZo4XrvL1biA/edit#gid=0).
 
-**10. Look up a local doctor (or official, or charity) in Propublica's databases.**
+**10. Look up a local doctor (or official, or charity) in Propublica's databases.**         
 Propublica has a number of news applications to assist reporters in doing their job. My favorites include 
  - [Dollars for Docs](https://projects.propublica.org/docdollars/), which has doctor's payments from drug companies
  - [Treatment tracker](https://projects.propublica.org/treatment/), what meds has that doctor been giving out?
