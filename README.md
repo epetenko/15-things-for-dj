@@ -8,30 +8,31 @@ But what if I told you there are some things you can do _today_ that will build 
 
 Set up some of these today, and you'll find a lot of data story options coming down the road.
 
-**15. Sign up for Klaxon.**     
+## 15. Sign up for Klaxon.      
 Klaxon is a tool from The Marshall Project to help journalists monitor websites and track changes. It notifies you if it notices that a website has changed:      
 ![Klaxon example](https://github.com/epetenko/15-things-for-dj/blob/master/klaxon_example.png)      
 It's fairly simple to set up; simply go to the website you want and use the Klaxon bookmark to start tracking. Ask Steve how you can get a login.
 
-**14. Check out the censusreporter.org entry for your town.**      
+## 14. Check out the censusreporter.org entry for your town.      
 [Census Reporter](censusreporter.org) is a news-outlet-created tool that helps journalists easily review and visualize Census data. It has built-in comparisons with other geographies (like a town to its county) and even some mapping tools. You can search for any geography level, like Edison, NJ:      
 ![Census Reporter example](https://github.com/epetenko/15-things-for-dj/blob/master/censusreporter_example.png)       
 You can also search by topic, then create tables to compare any geography to another. While the Census site is still a good goal to learn, Census Reporter will help you in most cases.
 
-**13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0). Ctrl+F your subject or topic of interest.**      
+## 13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).      
+Ctrl+F your subject or topic of interest.         
 While sources of data are everywhere around the web, it can be hard to find a comprehensive spot to get started browsing datasets. Steve's data warehouse is NJ-focused, while DIP has everything from libraries to Game of Thrones. The [ProPublica Data Store](https://www.propublica.org/datastore/), [Enigma Public](https://public.enigma.com/) and government websites like data.gov and data.nj.gov are also great places to look.
 
-**12. Sign up for IFTTT.**      
+## 12. Sign up for IFTTT.      
 [If this, then that](https://ifttt.com/discover) is a phone application and website that lets you create "recipes" that combine different services into one task at a time. You can create alerts to tell you when someone's tweeting, posting, or using an RSS feed, sort out your own messages and -- and this is my favorite -- log activity to a Google spreadsheet:         
 ![IFTTT example](https://github.com/epetenko/15-things-for-dj/blob/master/ifttt_example.png)
 
-**11. Download Tabula.**     
+## 11. Download Tabula.     
 This might be a bit tricky if you're limited to admin-free accounts, but it might be worth the time with IT. [Tabula](https://tabula.technology/) is a software to convert PDFs to downloadable Excel spreadsheets. While tools like Cometdocs also offer this feature, Tabula is the easiest and cheapest (free!) option.
 
-**11. File a records request**        
+## 10. File a records request**        
 Records requests are the bread and buttor of exclusive content. We at the data team file them regularly, even if we don't yet have a particular story in mind. If you're looking for some inspiration, IRE has a tipsheet of [50 things you can FOIA right now](https://docs.google.com/spreadsheets/d/1_tDuq-l531HZ5OLuhH5lQwgqm2kCxMNfZo4XrvL1biA/edit#gid=0). [Muckrock](https://www.muckrock.com/) is a helpful tool for writing and tracking records requests, but an OPRA folder and a little practice also works.
 
-**10. Look up a local doctor (or official, or charity) in Propublica's databases.**         
+## 9. Look up a local doctor (or official, or charity) in Propublica's databases.         
 Propublica has a number of news applications to assist reporters in doing their job. My favorites include 
  - [Dollars for Docs](https://projects.propublica.org/docdollars/), which has doctor's payments from drug companies
  - [Treatment tracker](https://projects.propublica.org/treatment/), what meds has that doctor been giving out?
@@ -39,10 +40,10 @@ Propublica has a number of news applications to assist reporters in doing their 
  - [Has your school been investigated for civil rights violations?](https://projects.propublica.org/graphics/civil-rights-violations)
  - [The FEC itemizer](https://projects.propublica.org/itemizer/) and [Represent](https://projects.propublica.org/represent/) for looking up your Congressional representative
  
-**9. Sign up for IRE/NICAR (and the NICAR-L listserv)**      
+## 8. Sign up for IRE/NICAR (and the NICAR-L listserv)      
 Data journalists like to talk to each other, especially when an Excel problem is involved. NICAR is one of the biggest resources we have to chat and share our ideas. IRE/NICAR has video tutorials, conference tipsheets and audio, and the NICAR-L listserv where data journos ask questions and share projects throughout the year. The [IRE 2018 conference](https://ire.org/conferences/ire-2018/tipsheets/) has tipsheets designed for daily journalists to get into data journalism.
 
-**8. Follow these outlets and and aggregators**      
+## 7. Follow these outlets and and aggregators      
 If you're looking to get some inspiration, I've collected a number of favorite places to see the latest data visualizations and big projects. These may not all be available to the local reporter, but they can help you see what's in the realm of possibility.
  - My [Twitter list](https://twitter.com/EPetenko/lists/data-investigations) (yes, shameless plug) of data, data viz and investigative outlets
  - [Data Is Plural](https://tinyletter.com/data-is-plural) for free datasets
