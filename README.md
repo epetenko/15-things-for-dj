@@ -9,7 +9,10 @@ But what if I told you there are some things you can do _today_ that will build 
 Set up some of these today, and you'll find a lot of data story options coming down the road.
 
 *15. Sign up for Klaxon*
+
 *14. Check out the censusreporter.org entry for your town*
+
 *13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0). Ctrl+F your subject or topic of interest.*
+
 *12. Sign up for IFTTT.*
 
