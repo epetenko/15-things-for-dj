@@ -8,12 +8,12 @@ But what if I told you there are some things you can do _today_ that will build 
 
 Set up some of these today, and you'll find a lot of data story options coming down the road.
 
-**15. Sign up for Klaxon**     
+**15. Sign up for Klaxon.**     
 Klaxon is a tool from The Marshall Project to help journalists monitor websites and track changes. It notifies you if it notices that a website has changed:
 ![Klaxon example](https://github.com/epetenko/15-things-for-dj/blob/master/klaxon_example.png)      
 It's fairly simple to set up; simply go to the website you want and use the Klaxon bookmark to start tracking. Ask Steve how you can get a login.
 
-**14. Check out the censusreporter.org entry for your town**      
+**14. Check out the censusreporter.org entry for your town.**      
 [Census Reporter](censusreporter.org) is a news-outlet-created tool that helps journalists easily review and visualize Census data. It has built-in comparisons with other geographies (like a town to its county) and even some mapping tools. You can search for any geography level, like Edison, NJ:      
 ![Census Reporter example](https://github.com/epetenko/15-things-for-dj/blob/master/censusreporter_example.png)       
 You can also search by topic, then create tables to compare any geography to another. While the Census site is still a good goal to learn, Census Reporter will help you in most cases.
@@ -25,8 +25,11 @@ While sources of data are everywhere around the web, it can be hard to find a co
 [If this, then that](https://ifttt.com/discover) is a phone application and website that lets you create "recipes" that combine different services into one task at a time. You can create alerts to tell you when someone's tweeting, posting, or using an RSS feed, sort out your own messages and -- and this is my favorite -- log activity to a Google spreadsheet:         
 ![IFTTT example](https://github.com/epetenko/15-things-for-dj/blob/master/ifttt_example.png)
 
+**11. Download Tabula.**     
+This might be a bit tricky if you're limited to admin-free accounts, but it might be worth the time with IT. [Tabula](https://tabula.technology/) is a software to convert PDFs to downloadable Excel spreadsheets. While tools like Cometdocs also offer this feature, Tabula is the easiest and cheapest (free!) option.
+
 **11. File a records request**        
-If you're looking for some inspiration, IRE has a tipsheet of [50 things you can FOIA right now](https://docs.google.com/spreadsheets/d/1_tDuq-l531HZ5OLuhH5lQwgqm2kCxMNfZo4XrvL1biA/edit#gid=0).
+Records requests are the bread and buttor of exclusive content. We at the data team file them regularly, even if we don't yet have a particular story in mind. If you're looking for some inspiration, IRE has a tipsheet of [50 things you can FOIA right now](https://docs.google.com/spreadsheets/d/1_tDuq-l531HZ5OLuhH5lQwgqm2kCxMNfZo4XrvL1biA/edit#gid=0). [Muckrock](https://www.muckrock.com/) is a helpful tool for writing and tracking records requests, but an OPRA folder and a little practice also works.
 
 **10. Look up a local doctor (or official, or charity) in Propublica's databases.**         
 Propublica has a number of news applications to assist reporters in doing their job. My favorites include 
