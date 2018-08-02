@@ -15,7 +15,7 @@ Set up some of these today, and you'll find a lot of data story options coming d
 **13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0). Ctrl+F your subject or topic of interest.**
 
 **12. Sign up for IFTTT.**      
-[If this, then that](https://ifttt.com/discover) is a phone application and website that lets you create "recipes" that combine different services into one task at a time. You can create alerts to tell you when someone's tweeting or posting, sort out your own messages or -- and this is my favorite -- log activity to a Google spreadsheet:
+[If this, then that](https://ifttt.com/discover) is a phone application and website that lets you create "recipes" that combine different services into one task at a time. You can create alerts to tell you when someone's tweeting, posting, or using an RSS feed, sort out your own messages and -- and this is my favorite -- log activity to a Google spreadsheet:         
 ![IFTTT example](https://github.com/epetenko/15-things-for-dj/blob/master/ifttt_example.png)
 
 **11. File a records request**        
