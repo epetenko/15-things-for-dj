@@ -32,5 +32,5 @@ Data journalists like to talk to each other, especially when an Excel problem is
 
 **8. Follow these outlets and and aggregators**      
 If you're looking to get some inspiration, I've collected a number of favorite places to see the latest data visualizations and big projects. These may not all be available to the local reporter, but they can help you see what's in the realm of possibility.     
- - 
+
 
