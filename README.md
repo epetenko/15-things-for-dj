@@ -25,5 +25,12 @@ Propublica has a number of news applications to assist reporters in doing their 
  - [Treatment tracker](https://projects.propublica.org/treatment/), what meds has that doctor been giving out?
  - [Nonprofit explorer](https://projects.propublica.org/nonprofits/), look up charities, universities, health systems and more
  - [Has your school been investigated for civil rights violations?](https://projects.propublica.org/graphics/civil-rights-violations)
- - [The FEC itemizer](https://projects.propublica.org/itemizer/) and [Represent](https://projects.propublica.org/represent/)
+ - [The FEC itemizer](https://projects.propublica.org/itemizer/) and [Represent](https://projects.propublica.org/represent/) for looking up your Congressional representative
+ 
+**9. Sign up for IRE/NICAR (and the NICAR-L listserv)**      
+Data journalists like to talk to each other, especially when an Excel problem is involved. NICAR is one of the biggest resources we have to chat and share our ideas. IRE/NICAR has video tutorials, conference tipsheets and audio, and the NICAR-L listserv where data journos ask questions and share projects throughout the year. The [IRE 2018 conference](https://ire.org/conferences/ire-2018/tipsheets/) has tipsheets designed for daily journalists to get into data journalism.
+
+**8. Follow these outlets and and aggregators**      
+If you're looking to get some inspiration, I've collected a number of favorite places to see the latest data visualizations and big projects. These may not all be available to the local reporter, but they can help you see what's in the realm of possibility.     
+ - 
 
