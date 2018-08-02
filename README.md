@@ -52,3 +52,8 @@ If you're looking to get some inspiration, I've collected a number of favorite p
  - [1801 newsletter](http://twitter.us16.list-manage.com/subscribe?u=088b912cf6976d4efabca7bbc&id=5587b07be6)
  - The [OpenNews community list](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc). Open News in general is another great resource for data journalists.
  - Sophie Warnes' [Fair Warning](https://www.getrevue.co/profile/FairWarning/issues/fair-warning-broadband-speeds-a-beer-roadtrip-and-blue-waves-122808?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Fair+Warning)
+ 
+ ## 6. Make a better spreadsheet.      
+ I could recommend a million Excel tutorials to get you started -- [my own](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_0.md) is not the worst, and comes with a Datawrapper sequel -- but the first thing to know about data is not formulas or pivot tables. It's the care and keeping of clean data.
+ 
+ Check out Sandhya Kambhampati's brief [tutorial](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/) on creating databases for when you're creating or logging your own data. If you're trying to make heads or tails of data from a public agency, the [Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) is a great place to search for your problem. Then follow ProPublica's [Bulletproofing Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) guide to make sure your data is strong.
