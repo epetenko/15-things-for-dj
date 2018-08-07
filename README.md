@@ -68,6 +68,6 @@ But my favorite place for data viz advice is the [Datawrapper blog Chartable](ht
 ## 4. Inspect the web.
 When reporters describe their lingering fear of programming, they tend to describe coders as Cypher in the Matrix: A strange translator who can translate a long line of gibberish.
 
-![The Matrix](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjZgJ2lnNvcAhWBl-AKHYqbDAsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fitsaunixsystem%2Fcomments%2F3qp06r%2Fhe_apparently_can_read_the_matrix%2F&psig=AOvVaw3M8Adr6tKE7ExGuMb0rzvG&ust=1533740887370793)
+![The Matrix](https://www.fullcontact.com/wp-content/uploads/2012/09/cypher-matrix-caption.jpeg)
 
 
