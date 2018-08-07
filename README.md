@@ -57,3 +57,9 @@ If you're looking to get some inspiration, I've collected a number of favorite p
  I could recommend a million Excel tutorials to get you started -- [my own](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_0.md) is not the worst, and comes with a Datawrapper sequel -- but the first thing to know about data is not formulas or pivot tables. It's the care and keeping of clean data.
  
  Check out Sandhya Kambhampati's brief [tutorial](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/) on creating databases for when you're creating or logging your own data. If you're trying to make heads or tails of data from a public agency, the [Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) is a great place to search for your problem. Then follow ProPublica's [Bulletproofing Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) guide to make sure your data is strong.
+ 
+## 5. Up your data viz game with some easy tips.
+Got your data ready to put into that story? It's time to figure out how to show what you've got to the reader. The Financial Times has a [giant interactive](http://ft-interactive.github.io/visual-vocabulary/) and [accompanying explainer](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary) for helping you pick what chart to use. Then get some expert advice on best [design practices](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) to keep your chart simple and readable by the reader.
+
+But my favorite place for data viz advice is the [Datawrapper blog Chartable](https://blog.datawrapper.de/), run by the same people who created the tool we use. They have a host of tutorials and advice for using colors, translating data, and using specific types of charts. Follow that space to build up your visual prowess and see some great chart examples created in Datawrapper.
+ 
