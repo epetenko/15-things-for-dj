@@ -63,3 +63,4 @@ Got your data ready to put into that story? It's time to figure out how to show 
 
 But my favorite place for data viz advice is the [Datawrapper blog Chartable](https://blog.datawrapper.de/), run by the same people who created the tool we use. They have a host of tutorials and advice for using colors, translating data, and using specific types of charts. Follow that space to build up your visual prowess and see some great chart examples created in Datawrapper.
  
+![Chartable example](https://github.com/epetenko/15-things-for-dj/blob/master/chartable_example.png)
