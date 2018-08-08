@@ -72,13 +72,20 @@ When reporters describe their lingering fear of programming, they tend to descri
 
 We coders do occasionally have to look at code without signposts or guidelines, and it's easier once you learn that language. But even though I'm pretty familiar with Javascript and Python, if you gave me a full chunk of complex code and didn't tell me what it was supposed to do or what part does what, I'd be as lost as you.
 
-![Scary code example](https://github.com/epetenko/15-things-for-dj/blob/master/bad_code_example.png)
-
 But we don't do that. Even if we steal -- ahem, borrow -- code from other sources, there are a couple of easy ways to see for yourself how a chunk of code gets turned into a result. For websites, there's even an easy cheat. It's called the Web Inspector.
 
 Chrome and Firefox both have web inspectors, and you can access them the same way. Open the page you want to look at -- preferably on a nice big screen -- and right-click on the part of the site you want to inspect. It'll crop up as "Inspect" or "Inspect Element."
 
 ![Inspect example](https://github.com/epetenko/15-things-for-dj/blob/master/inspect_example.png)
 
+When you click on that, a whole of things crop up: The HTML, CSS and Javascript console, aka the bones, blood and skin of a webpage:
+
+![Inside the inspector example](https://github.com/epetenko/15-things-for-dj/blob/master/inside_inspector_example.png)
+
+You can even edit and delete elements from the page, although it won't change how the page loads to someone else. It's fun to play around with, though. For example: 
+
+![Editing in the inspector example](https://github.com/epetenko/15-things-for-dj/blob/master/inspector_edit_example.png)
+
+Confused about what an element is or does? Google it! Or search for it in [W3 Schools](https://www.w3schools.com/html/default.asp), an encyclopedia of HTML, CSS and JS codes.
 
 
