@@ -86,6 +86,4 @@ You can even edit and delete elements from the page, although it won't change ho
 
 ![Editing in the inspector example](https://github.com/epetenko/15-things-for-dj/blob/master/inspector_edit_example.png)
 
-Confused about what an element is or does? Google it! Or search for it in [W3 Schools](https://www.w3schools.com/html/default.asp), an encyclopedia of HTML, CSS and JS codes.
-
-
+You can start by looking at your own article, or trying a well-done graphic you admire or tool you use a lot. Confused about what an element is or does? Google it! Or search for it in [W3 Schools](https://www.w3schools.com/html/default.asp), an encyclopedia of HTML, CSS and JS codes.
