@@ -87,3 +87,8 @@ You can even edit and delete elements from the page, although it won't change ho
 ![Editing in the inspector example](https://github.com/epetenko/15-things-for-dj/blob/master/inspector_edit_example.png)
 
 You can start by looking at your own article, or trying a well-done graphic you admire or tool you use a lot. Confused about what an element is or does? Google it! Or search for it in [W3 Schools](https://www.w3schools.com/html/default.asp), an encyclopedia of HTML, CSS and JS codes.
+
+Suggestions: 
+- Sign up for document cloud
+- Get familiar with google sheets - https://www.thinkwithgoogle.com/marketing-resources/experience-design/data-stories/ https://support.google.com/docs/answer/6280499?co=GENIE.Platform%3DDesktop&hl=en https://gsuite.google.com/learning-center/use-at-work/analyze-data/#!/
+https://www.lovesdata.com/blog/google-sheets-tips
