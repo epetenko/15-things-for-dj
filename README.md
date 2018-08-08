@@ -52,20 +52,28 @@ If you're looking to get some inspiration, I've collected a number of favorite p
  - [1801 newsletter](http://twitter.us16.list-manage.com/subscribe?u=088b912cf6976d4efabca7bbc&id=5587b07be6)
  - The [OpenNews community list](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc). Open News in general is another great resource for data journalists.
  - Sophie Warnes' [Fair Warning](https://www.getrevue.co/profile/FairWarning/issues/fair-warning-broadband-speeds-a-beer-roadtrip-and-blue-waves-122808?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Fair+Warning)
+
+## 6. Plug that guy's speech — or your favorite band's lyrics — into WordCounter.
+[WordCounter](https://databasic.io/en/wordcounter/) lets you easily plug text data into their tool and find out what the most common words and phrases are. It can help you to find patterns or attitudes from a large amount of text, whether it's a speech, report or some song lyrics.
+
+DataBasic has several other tools to help reporters easily find data in spreadsheets, like:
+- [WTF CSV](https://databasic.io/en/wtfcsv/), plug in your CSV and find out the frequency of different categories in the data;
+- [SameDiff](https://databasic.io/en/samediff/), helps you to figure out how similar or different two chunks of text are;
+- [ConnectTheDots](https://databasic.io/en/connectthedots/), create basic network graphs between people or communities.
  
- ## 6. Make a better spreadsheet.      
+ ## 5. Make a better spreadsheet.      
  I could recommend a million Excel tutorials to get you started -- [my own](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_0.md) is not the worst, and comes with a Datawrapper sequel -- but the first thing to know about data is not formulas or pivot tables. It's the care and keeping of clean data.
  
  Check out Sandhya Kambhampati's brief [tutorial](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/) on creating databases for when you're creating or logging your own data. If you're trying to make heads or tails of data from a public agency, the [Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) is a great place to search for your problem. Then follow ProPublica's [Bulletproofing Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) guide to make sure your data is strong.
  
-## 5. Up your data viz game with some easy tips.
+## 4. Up your data viz game with some easy tips.
 Got your data ready to put into that story? It's time to figure out how to show what you've got to the reader. The Financial Times has a [giant interactive](http://ft-interactive.github.io/visual-vocabulary/) and [accompanying explainer](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary) for helping you pick what chart to use. Then get some expert advice on best [design practices](https://policyviz.com/2018/08/07/dataviz-cheatsheet/) to keep your chart simple and readable by the reader.
 
 But my favorite place for data viz advice is the [Datawrapper blog Chartable](https://blog.datawrapper.de/), run by the same people who created the tool we use. They have a host of tutorials and advice for using colors, translating data, and using specific types of charts. Follow that space to build up your visual prowess and see some great chart examples created in Datawrapper.
  
 ![Chartable example](https://github.com/epetenko/15-things-for-dj/blob/master/chartable_example.png)
 
-## 4. Inspect the web.
+## 3. Inspect the web.
 When reporters describe their lingering fear of programming, they tend to describe coders as Cypher in the Matrix: A strange translator who can translate a long line of gibberish.
 
 ![The Matrix](https://www.fullcontact.com/wp-content/uploads/2012/09/cypher-matrix-caption.jpeg)
