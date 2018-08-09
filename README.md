@@ -20,7 +20,9 @@ You can also search by topic, then create tables to compare any geography to ano
 
 ## 13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).      
 ... And Ctrl+F your subject or topic of interest.         
-While sources of data are everywhere around the web, it can be hard to find a comprehensive spot to get started browsing datasets. Steve's data warehouse is NJ-focused, while DIP has everything from libraries to Game of Thrones. The [ProPublica Data Store](https://www.propublica.org/datastore/), [Enigma Public](https://public.enigma.com/) and government websites like data.gov and data.nj.gov are also great places to look.
+While sources of data are everywhere around the web, it can be hard to find a comprehensive spot to get started browsing datasets. Steve's data warehouse is NJ-focused, while DIP has everything from libraries to Game of Thrones. The [ProPublica Data Store](https://www.propublica.org/datastore/), [Enigma Public](https://public.enigma.com/), Kaggle and Github accounts of news outlets are also good places to look.
+
+Many larger cities and NJ agencies have their own data portal or downloads center. [Data.nj.gov](data.nj.gov) and [Data.gov](data.gov) are two of the biggest government repositories of data, where you can find pension data and 
 
 ## 12. Sign up for IFTTT.      
 [If this, then that](https://ifttt.com/discover) is a phone application and website that lets you create "recipes" that combine different services into one task at a time. You can create alerts to tell you when someone's tweeting, posting, or using an RSS feed, sort out your own messages and -- and this is my favorite -- log activity to a Google spreadsheet:         
