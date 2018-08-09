@@ -108,6 +108,9 @@ Google Sheets is a bit different from Excel in syntax and tools, which can make 
 - Automatically add suggested charts using [Explore](https://support.google.com/docs/answer/6280499?co=GENIE.Platform%3DDesktop&hl=en)
 - Use the [Googletranslate function](https://support.google.com/docs/answer/3093331?hl=en) to translate foreign languages
 - Create cute little [sparklines](https://support.google.com/docs/answer/3093289?hl=en) in your table: 
+
+![Sparkline example](https://github.com/epetenko/15-things-for-dj/blob/master/sparkline_example.png)
+
 - Add a bit of finance data to your story with the [Googlefinance function](https://support.google.com/docs/answer/3093281?hl=en&ref_topic=3105411)
 - Get latitude and longitude from address data with [Geocode's add-on](https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier). It can also plot a basic map, although you shouldn't embed this in a story.
 
