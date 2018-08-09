@@ -116,4 +116,3 @@ Google Sheets is a bit different from Excel in syntax and tools, which can make 
 
 Suggestions: 
 - Sign up for document cloud
-
