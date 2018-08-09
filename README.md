@@ -98,7 +98,21 @@ You can even edit and delete elements from the page, although it won't change ho
 
 You can start by looking at your own article, or trying a well-done graphic you admire or tool you use a lot. Confused about what an element is or does? Google it! Or search for it in [W3 Schools](https://www.w3schools.com/html/default.asp), an encyclopedia of HTML, CSS and JS codes.
 
+## 2. Get comfy with Google Sheets.
+Google Sheets is a bit different from Excel in syntax and tools, which can make it tough to transition to it if you're barely used to Excel yourself. However, it also has a ton of features that make it easy to use and can enchance your use of online data. You can:
+
+- [Scrape a webpage with ImportXML](https://www.benlcollins.com/spreadsheets/google-sheet-web-scraper/) with ImportXML
+- Quickly turn an HTML table into a spreadsheet (with ImportHTML) or get data from an online csv (with Importdata)
+- Log an RSS feed with ImportFeed, or grab from an API if it's in the form of a JSON with [ImportJSON](https://github.com/bradjasper/ImportJSON)
+- Turn a Google form into a spreadsheet of responses, making it possible to analyze and chart survey data
+- Automatically add suggested charts using [Explore](https://support.google.com/docs/answer/6280499?co=GENIE.Platform%3DDesktop&hl=en)
+- Use the [Googletranslate function](https://support.google.com/docs/answer/3093331?hl=en) to translate foreign languages
+- Create cute little [sparklines](https://support.google.com/docs/answer/3093289?hl=en) in your table: 
+- Add a bit of finance data to your story with the [Googlefinance function](https://support.google.com/docs/answer/3093281?hl=en&ref_topic=3105411)
+
+
+
 Suggestions: 
 - Sign up for document cloud
-- Get familiar with google sheets - https://www.thinkwithgoogle.com/marketing-resources/experience-design/data-stories/ https://support.google.com/docs/answer/6280499?co=GENIE.Platform%3DDesktop&hl=en https://gsuite.google.com/learning-center/use-at-work/analyze-data/#!/
+- Get familiar with google sheets -  
 https://www.lovesdata.com/blog/google-sheets-tips
