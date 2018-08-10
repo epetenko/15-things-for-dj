@@ -113,6 +113,15 @@ Google Sheets is a bit different from Excel in syntax and tools, which can make 
 
 - Add a bit of finance data to your story with the [Googlefinance function](https://support.google.com/docs/answer/3093281?hl=en&ref_topic=3105411)
 - Get latitude and longitude from address data with [Geocode's add-on](https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier). It can also plot a basic map, although you shouldn't embed this in a story.
+- If you're a bit more advanced, you can [grab a special version of the url of the data](https://productforums.google.com/forum/#!topic/docs/-kz6ajc879A) and use it to put live data into a chart or interactive.
 
-Suggestions: 
-- Sign up for document cloud
+## 1. Check out Workbench.
+If you've had trouble grasping the concepts of Excel, or want to strengthen your data journalism workflow, Workbench may be the answer. [Workbench](http://workbenchdata.com/) is a creation of the Columbia Journalism program designed to improve how reporters do data on a regular basis. But it has far more than Excel offers. Look at [this demo](https://app.workbenchdata.com/workflows/1896/) of how they analyzed public data to create a chart on San Francisco's affordable housing:
+
+![Workbench example](https://github.com/epetenko/15-things-for-dj/blob/master/workbench_example.png)
+
+The tutorial to do that is [here](https://app.workbenchdata.com/lessons/load-public-data/). And one of the great things about Workbench is if you want to do the same thing, all you have to do is duplicate the workflow and change the data source to your own. 
+
+You can use Workbench to scrape websites, get Tweets or just generally do the things you'd do in Excel. You also save all of your steps, making it easy to trace your work and step back if you make an error.
+
+
