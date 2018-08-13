@@ -32,7 +32,10 @@ Many larger cities and NJ agencies have their own data portal or downloads cente
 This might be a bit tricky if you're limited to admin-free accounts, but it might be worth the time with IT. [Tabula](https://tabula.technology/) is a software to convert PDFs to downloadable Excel spreadsheets. While tools like Cometdocs also offer this feature, Tabula is the easiest and cheapest (free!) option.
 
 ## 10. File a records request        
-Records requests are the bread and butter of exclusive content. We at the data team file them regularly, even if we don't yet have a particular story in mind. If you're looking for some inspiration, IRE has a tipsheet of [50 things you can FOIA right now](https://docs.google.com/spreadsheets/d/1_tDuq-l531HZ5OLuhH5lQwgqm2kCxMNfZo4XrvL1biA/edit#gid=0). [Muckrock](https://www.muckrock.com/) is a helpful tool for writing and tracking records requests, but an OPRA folder and a little practice also works.
+Records requests are the bread and butter of exclusive content. We at the data team file them regularly, even if we don't yet have a particular story in mind.
+
+- If you're looking for some inspiration, IRE has a tipsheet of [50 things you can FOIA right now](https://docs.google.com/spreadsheets/d/1_tDuq-l531HZ5OLuhH5lQwgqm2kCxMNfZo4XrvL1biA/edit#gid=0). 
+- [Muckrock](https://www.muckrock.com/) is a helpful tool for writing and tracking records requests, but an OPRA folder and a little practice also works.
 
 ## 9. Look up a local doctor (or official, or charity) in Propublica's databases.         
 Propublica has a number of news applications to assist reporters in doing their job. My favorites include 
