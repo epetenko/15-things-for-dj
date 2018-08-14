@@ -14,7 +14,7 @@ Klaxon is a tool from The Marshall Project to help journalists monitor websites 
 It's fairly simple to set up; simply go to the website you want and use the Klaxon bookmark to start tracking. Ask Steve how you can get a login.
 
 ## 14. Check out the censusreporter.org entry for your town.      
-[Census Reporter](censusreporter.org) is a news-outlet-created tool that helps journalists easily review and visualize Census data. It has built-in comparisons with other geographies (like a town to its county) and even some mapping tools. You can search for any geography level, like Edison, NJ:      
+[Census Reporter](https://censusreporter.org) is a news-outlet-created tool that helps journalists easily review and visualize Census data. It has built-in comparisons with other geographies (like a town to its county) and even some mapping tools. You can search for any geography level, like Edison, NJ:      
 ![Census Reporter example](https://github.com/epetenko/15-things-for-dj/blob/master/censusreporter_example.png)       
 You can also search by topic, then create tables to compare any geography to another. While the Census site is still a good goal to learn, Census Reporter will help you in most cases.
 
@@ -22,7 +22,7 @@ You can also search by topic, then create tables to compare any geography to ano
 ... And Ctrl+F your subject or topic of interest.         
 While sources of data are everywhere around the web, it can be hard to find a comprehensive spot to get started browsing datasets. Steve's data warehouse is NJ-focused, while DIP has everything from libraries to Game of Thrones. The [ProPublica Data Store](https://www.propublica.org/datastore/), [Enigma Public](https://public.enigma.com/), Kaggle and Github accounts of news outlets are also good places to look.
 
-Many larger cities and NJ agencies have their own data portal or downloads center. [Data.nj.gov](data.nj.gov) and [Data.gov](data.gov) are two of the biggest government repositories of data, where you can find pension data and 
+Many larger cities and NJ agencies have their own data portal or downloads center. [Data.nj.gov](https://data.nj.gov) and [https://Data.gov](data.gov) are two of the biggest government repositories of data, where you can find pension data and 
 
 ## 12. Sign up for IFTTT.      
 [If this, then that](https://ifttt.com/discover) is a phone application and website that lets you create "recipes" that combine different services into one task at a time. You can create alerts to tell you when someone's tweeting, posting, or using an RSS feed, sort out your own messages and -- and this is my favorite -- log activity to a Google spreadsheet:         
