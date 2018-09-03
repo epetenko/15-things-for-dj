@@ -19,7 +19,8 @@ It's fairly simple to set up; simply go to the website you want and use the Klax
 You can also search by topic, then create tables to compare any geography to another. While the Census site is still a good goal to learn, Census Reporter will help you in most cases.
 
 ## 13. Go to Steve's [data warehouse](http://sstirling.github.io/data-toolbox/build/subject/data.html) and Data Is Plural's [spreadsheet of data](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).      
-... And Ctrl+F your subject or topic of interest.         
+... And Ctrl+F your subject or topic of interest.  
+![Data warehouse example](https://github.com/epetenko/15-things-for-dj/blob/master/steve_warehouse_ex.png)
 While sources of data are everywhere around the web, it can be hard to find a comprehensive spot to get started browsing datasets. Steve's data warehouse is NJ-focused, while DIP has everything from libraries to Game of Thrones. The [ProPublica Data Store](https://www.propublica.org/datastore/), [Enigma Public](https://public.enigma.com/), Kaggle and Github accounts of news outlets are also good places to look.
 
 Many larger cities and NJ agencies have their own data portal or downloads center. [Data.nj.gov](https://data.nj.gov) and [https://Data.gov](data.gov) are two of the biggest government repositories of data, where you can find pension data and 
