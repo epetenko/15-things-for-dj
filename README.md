@@ -47,6 +47,8 @@ Propublica has a number of news applications to assist reporters in doing their 
  - [Nonprofit explorer](https://projects.propublica.org/nonprofits/), look up charities, universities, health systems and more
  - [Has your school been investigated for civil rights violations?](https://projects.propublica.org/graphics/civil-rights-violations)
  - [The FEC itemizer](https://projects.propublica.org/itemizer/) and [Represent](https://projects.propublica.org/represent/) for looking up your Congressional representative
+ - [HUD Inspect](https://projects.propublica.org/hud/) to find out how your local housing authority maintains its affordable housing.
+ - [Miseducation - is there racial inequality at your school?](https://projects.propublica.org/miseducation) Look up local schools and districts to find their racial makeup and how students of different races perform on key metrics.
  
 ## 8. Sign up for IRE/NICAR (and the NICAR-L listserv)      
 Data journalists like to talk to each other, especially when an Excel problem is involved. NICAR is one of the biggest resources we have to chat and share our ideas. IRE/NICAR has video tutorials, conference tipsheets and audio, and the NICAR-L listserv where data journos ask questions and share projects throughout the year. The [IRE 2018 conference](https://ire.org/conferences/ire-2018/tipsheets/) has tipsheets designed for daily journalists to get into data journalism.
